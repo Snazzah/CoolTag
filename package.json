@@ -1,0 +1,24 @@
+{
+  "name": "cooltag",
+  "version": "1.0.0",
+  "description": "Lightweight tag parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnazzyPine25/CoolTag.git"
+  },
+  "keywords": [
+    "tag",
+    "parse",
+    "regex"
+  ],
+  "author": "Snazzah <snazzah@discorddungeons.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SnazzyPine25/CoolTag/issues"
+  },
+  "homepage": "https://github.com/SnazzyPine25/CoolTag#readme"
+}
